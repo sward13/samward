@@ -15,12 +15,10 @@
 	font-weight:600;
 }
 .project h3{
-	font-weight:900;
+	font-weight:500;
 	color:#333;
 	text-align: center;
 	margin-bottom: .75em;
-	display: flex;
-	justify-content: space-between;
 }
 .project_contents{
 	margin: 1em;
@@ -39,6 +37,7 @@
 .footer{
 	padding-top: 1em;
 	padding-bottom: 2em;
+	text-align: center;
 }
 .footer-symbol{color:#666;}
 @media screen and (min-width: 40em) {
